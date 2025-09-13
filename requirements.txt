@@ -18,4 +18,7 @@ symengine==0.13.0
 rustworkx==0.15.1
 h5py==3.11.0
 
+# viz
+py3Dmol==2.5.2
+
 jupyter
