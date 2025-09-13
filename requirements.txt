@@ -1,0 +1,20 @@
+# Core Qiskit
+qiskit==1.2.4
+qiskit-aer==0.17.1
+qiskit-algorithms==0.3.1
+qiskit-ibm-runtime==0.34.0
+qiskit-nature==0.7.2
+
+# Chemistry driver
+pyscf==2.10.0
+
+# Numerical + math stack (used heavily by Qiskit)
+numpy
+scipy
+matplotlib
+sympy==1.13.3
+symengine==0.13.0
+rustworkx==0.15.1
+h5py==3.11.0
+
+jupyter
