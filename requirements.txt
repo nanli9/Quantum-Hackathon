@@ -13,9 +13,11 @@ numpy
 scipy
 seaborn
 matplotlib
+pylatexenc
 sympy==1.13.3
 symengine==0.13.0
 rustworkx==0.15.1
 h5py==3.11.0
 
 jupyter
+
