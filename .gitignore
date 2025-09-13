@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Jupyter Notebook config
+.jupyter/
+
+# Python virtual environments
+venv/
+.env/
+*.env
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
