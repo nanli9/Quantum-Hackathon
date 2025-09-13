@@ -11,6 +11,7 @@ pyscf==2.10.0
 # Numerical + math stack (used heavily by Qiskit)
 numpy
 scipy
+seaborn
 matplotlib
 sympy==1.13.3
 symengine==0.13.0
