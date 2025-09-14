@@ -61,13 +61,22 @@ jupyter notebook simulatingCH4.ipynb
 ```
 
 ## Results
-CH4 ground state simulation graph:\n
+Methane (CH4) ground state simulation graph:\n
 
-<img width="482" height="364" alt="image" src="https://github.com/user-attachments/assets/af7e44ed-393a-4d2b-b28a-ae6896b71c3f" />
+<img width="784" height="540" alt="image" src="https://github.com/user-attachments/assets/af7e44ed-393a-4d2b-b28a-ae6896b71c3f" />
+Low bond distance simulation:\n
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/59abc31d-d141-42e0-9854-18fc9498df45" />
+Appropriate bond distance simulation:\n
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/713ecd2b-fcd8-4072-8b32-a7ad878822e0" />
+Very large bond distance simulation (makes the individual exist atoms apart):\n
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/cce351fe-b230-412d-8d8c-38d825f9ce92" />
+Highest Occupied Molecular Orbital (HOMO) and Lowest Unoccupied Molecular Orbital (LOMO) for CH4:\n
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/bb957b83-3996-4263-b8ec-d11d0f32a86b" />
+
+
 
 LiH ground state simulation graph:\n
 
 <img width="784" height="540" alt="image" src="https://github.com/user-attachments/assets/3506a191-b4fa-42de-a417-497452b05dd9" />
-
 
 
