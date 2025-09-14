@@ -79,7 +79,7 @@ Very large bond distance simulation (makes the individual exist atoms apart):
 
 Highest Occupied Molecular Orbital (HOMO) and Lowest Unoccupied Molecular Orbital (LOMO) for CH4:
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/bb957b83-3996-4263-b8ec-d11d0f32a86b" />
+<img width="300" height="230" alt="image" src="https://github.com/user-attachments/assets/bb957b83-3996-4263-b8ec-d11d0f32a86b" />
 
 
 
