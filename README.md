@@ -56,5 +56,14 @@ VQE is a **hybrid quantum-classical algorithm** to find the lowest eigenvalue of
 git clone https://github.com/nanli9/Quantum-Hackathon.git
 cd Quantum-Hackathon
 pip install -r requirements.txt
-jupyter notebook simulatingLiH.ipynb  
+jupyter notebook simulatingLiH.ipynb
+jupyter notebook simulatingCH4.ipynb  
+
+
+## Results
+CH4 ground state simulation graph:
+<img width="482" height="364" alt="image" src="https://github.com/user-attachments/assets/af7e44ed-393a-4d2b-b28a-ae6896b71c3f" />
+
+LiH ground state simulation graph:
+
 
