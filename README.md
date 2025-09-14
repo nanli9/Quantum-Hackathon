@@ -61,9 +61,13 @@ jupyter notebook simulatingCH4.ipynb
 ```
 
 ## Results
-CH4 ground state simulation graph:
+CH4 ground state simulation graph:\n
+
 <img width="482" height="364" alt="image" src="https://github.com/user-attachments/assets/af7e44ed-393a-4d2b-b28a-ae6896b71c3f" />
 
-LiH ground state simulation graph:
+LiH ground state simulation graph:\n
+
+<img width="784" height="540" alt="image" src="https://github.com/user-attachments/assets/3506a191-b4fa-42de-a417-497452b05dd9" />
+
 
 
