@@ -1,6 +1,6 @@
 # Quantum Simulation of the LiH Ground State Energy
 
-This project leverages **quantum computing**, specifically the **Variational Quantum Eigensolver (VQE)** algorithm, to calculate the ground state energy of the Lithium Hydride (LiH) molecule.  
+This project leverages **quantum computing**, specifically the **Variational Quantum Eigensolver (VQE)** algorithm, to calculate the ground state energy of the Lithium Hydride (LiH) and Methane (CH4) molecule.  
 The primary goal is to generate the molecule's **Potential Energy Surface (PES)** by simulating the bond energy at various interatomic distances.  
 From this, we determine key chemical properties such as **equilibrium bond length** and **bond strength**.
 
